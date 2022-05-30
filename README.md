@@ -12,7 +12,7 @@ Strong Education professional with a Bachelor of Computer Application focused in
   04/2016 - 08/2017, Patna My Task was to Handle Excise Minister's Social Handle and Assist in IT Sector. 
   
 ### Skill 
-Web Development, HTMl, CSS, Javascript, Microsoft Office, PhotoShop, Tally, CorelDRAW, Customer Service, Business.
+Web Development, HTML, CSS, Javascript, Microsoft Office, PhotoShop, Tally, CorelDRAW, Customer Service, Business.
 
 ## Project Work - 
 * Designed Cloned Website of Hamleys.in - https://rainbow-manatee-610ca3.netlify.app/
