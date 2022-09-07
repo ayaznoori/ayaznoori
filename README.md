@@ -29,7 +29,7 @@ News Anchor :-https://www.youtube.com/watch?v=f31d2GQCZQ0
 
 * I am a quick learner.
 * I enjoy learning new things
-* I have creative mind. Always think to do any work in different ways.
+* I have creative mind.
 * I love to cook different dishes.
 
 ### Some Negative points in me.
