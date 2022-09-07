@@ -22,15 +22,18 @@ Strong Education professional with a Bachelor of Computer Application focused in
 ### Some Interesting Fact about me.
 
 * I have passion to work in all kind of field.
-Check out here-
-Me as Teacher :-https://youtu.be/EtPQ0ECc4GA
-Motivational Speaker-https://youtu.be/JnFMdqwFjSk
-News Anchor :-https://www.youtube.com/watch?v=f31d2GQCZQ0
-
 * I am a quick learner.
 * I enjoy learning new things
 * I have creative mind.
 * I love to cook different dishes.
+
+
+Check out here-
+* Me as Teacher :-https://youtu.be/EtPQ0ECc4GA
+* Motivational Speaker-https://youtu.be/JnFMdqwFjSk
+* News Anchor :-https://www.youtube.com/watch?v=f31d2GQCZQ0
+
+
 
 ### Some Negative points in me.
 * I’m very emotional.
