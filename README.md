@@ -58,10 +58,10 @@ I'm a graduate in Computer Science 🎓 from Patna University 🏛. I'm a passio
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-LinkedIn - <a href="https://linkedin.com/in/mohammad-ayaz-noori-860321230" target="blank">Click Here</a><br/>
-Portfolio - <a href="https://ayaznoori-portfolio.netlify.app/" target="blank">Click Here</a><br/>
-Youtube - <a href="https://www.youtube.com/c/nhtlive" target="blank">Click Here</a><br/>
-Hackerrank - <a href="https://www.hackerrank.com/tyrogroup786" target="blank">Click Here</a>
+- <a href="https://linkedin.com/in/mohammad-ayaz-noori-860321230" target="blank">LinkedIn</a><br/>
+- <a href="https://ayaznoori-portfolio.netlify.app/" target="blank">Portfolio </a><br/>
+- <a href="https://www.youtube.com/c/nhtlive" target="blank">Youtube</a><br/>
+- <a href="https://www.hackerrank.com/tyrogroup786" target="blank">Hackerrank</a>
 </p>
 
 
