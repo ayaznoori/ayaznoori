@@ -19,12 +19,14 @@ I'm a graduate in Computer Science 🎓 from Patna University 🏛. I'm a passio
 
 ## Group Project Work - <br/>
 * <b>Designed Cloned website of KFC -</b> <br/>
+    KFC Corporation, based in Louisville, Kentucky, is one of the few brands in America that can boast a rich, decades-long history of success and innovation. We’re at over 24,000 KFC outlets and more than 145 countries and territories around the world.<br/>
     Achievement - Power Project Award<br/>
     Deployed Link - https://kfc-clone-masai.netlify.app <br/>
     Github Repo Link - https://github.com/ayaznoori/kfc_clone.git<br/>
     Area of Responsibility - Building Login/Signup Page, Linking All Pages & Fixing bugs.<br/>
 
 * <b>Designed Cloned Website of Tmetric -</b> <br/>
+    TMetric is time tracking software operated by TMetric team, headquartered in Prague, Czech Republic, that offers time tracking service for freelancers and small business owners who want to optimize their business processes and increase personal productivity.<br/>
     Deployed Link - https://tmetric.netlify.app/.<br/>
     Github Repo Link - https://github.com/ayaznoori/dazzling-measure-5625.git<br/>
     Area of Responsibility - Team Lead, Building Landing Page, Implementing Google<br/>
