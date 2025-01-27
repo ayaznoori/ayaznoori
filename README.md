@@ -70,6 +70,6 @@ I'm a graduate in Computer Science 🎓 from Patna University 🏛. I'm a passio
 <br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaznoori" alt="ayaznoori" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaznoori&show_icons=true&locale=en" alt="ayaznoori" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaznoori&show_icons=true&locale=en" alt="ayaznoori" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaznoori&" alt="ayaznoori" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaznoori&" alt="ayaznoori" /></p> -->
